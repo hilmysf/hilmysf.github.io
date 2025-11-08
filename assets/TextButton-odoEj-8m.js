@@ -1,0 +1,1 @@
+import{e as a,t as r,o as i}from"./index-tSw6JL6G.js";const c={__name:"TextButton",props:{text:{type:String,default:"Text Button"}},emits:["click"],setup(e,{emit:o}){return(n,t)=>(i(),a("button",{onClick:t[0]||(t[0]=s=>n.$emit("click")),class:"text-primary bg-transparent animate-scale"},r(e.text),1))}};export{c as _};
