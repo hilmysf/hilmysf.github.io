@@ -1,0 +1,1 @@
+import{u as t}from"./useFadeUpMotion-dYd1jyS6.js";import{_ as e}from"./ProjectsSection.vue_vue_type_script_setup_true_lang-kq_3yY8c.js";import{b as r,d as s,c as a,o as c}from"./index-XPajKxBf.js";import"./TextButton-DC2IoYqD.js";const l={__name:"Projects",setup(n){const o=r(null);return s(()=>{t(o,{},"Projects")}),(p,m)=>(c(),a(e,{class:"md:!pt-32"}))}};export{l as default};
