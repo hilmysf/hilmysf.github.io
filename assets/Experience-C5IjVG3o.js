@@ -1,0 +1,1 @@
+import{u as o}from"./useFadeUpMotion-Dwxiq9xu.js";import{_ as r}from"./ExperienceSection-FY7XCFTe.js";import{b as t,d as a,c as n,o as s}from"./index-BX-lJqpO.js";import"./TextButton-BaaT083s.js";const l={__name:"Experience",setup(c){const e=t(null);return a(()=>{o(e,{},"Experience")}),(p,_)=>(s(),n(r))}};export{l as default};

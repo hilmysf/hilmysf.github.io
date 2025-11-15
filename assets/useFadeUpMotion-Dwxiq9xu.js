@@ -1,0 +1,1 @@
+import{x as l,y as u}from"./index-BX-lJqpO.js";const d=(e,n={},p="default")=>{const{initial:s,enter:o,duration:a=500,delay:r=200}={initial:{opacity:0,y:50},enter:{opacity:1,y:0,scale:1},...n},t=l(e,{initial:s,visibleOnce:{...o,transition:{duration:a,delay:r}}});let i=!1;return u(e,([c])=>{c.isIntersecting&&!i&&(t.apply("visibleOnce"),i=!0)},{threshold:.1}),t};export{d as u};

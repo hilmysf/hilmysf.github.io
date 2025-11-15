@@ -1,1 +1,0 @@
-import{u as o}from"./useFadeUpMotion-CtdoDAb3.js";import{_ as r}from"./ExperienceSection-D0cOdqBU.js";import{b as s,d as t,c as a,o as c}from"./index-TTukzb7a.js";import"./TextButton-BUBt0jtj.js";const l={__name:"Experience",setup(n){const e=s(null);return t(()=>{o(e,{},"Experience")}),(p,m)=>(c(),a(r,{class:"md:!pt-32"}))}};export{l as default};

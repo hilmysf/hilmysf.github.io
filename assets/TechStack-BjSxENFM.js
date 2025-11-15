@@ -1,1 +1,0 @@
-import{_ as o}from"./TechStackSection-C2GOw3T-.js";import{p as e,c as t,o as r}from"./index-TTukzb7a.js";import"./useFadeUpMotion-CtdoDAb3.js";import"./TextButton-BUBt0jtj.js";const i=e({__name:"TechStack",setup(a){return(c,p)=>(r(),t(o))}});export{i as default};
