@@ -1,0 +1,5 @@
+<script setup lang="ts">
+import photo from '@/assets/images/Hilmy-Gunung Gede.jpeg'
+import cv from '@/assets/files/cv_hilmy.pdf'
+</script>
+<template><section class="container content-section about-page"><div><p class="eyebrow">A LITTLE ABOUT ME</p><h1>Curious mind.<br><em>Hands-on builder.</em></h1><p class="large-copy">I’m Hilmy Saeful Fatah.<br>You can just call me Hilmy.</p><p>I build mobile applications with Android and Flutter, with an interest in thoughtful interfaces and the people behind every interaction.</p><p>At PT Pupuk Indonesia, I develop AI-powered Android applications that support business needs and make everyday tasks easier.</p><p>I’m also exploring front-end web development with Vue.js and Next.js. Feedback, unfamiliar problems, and new technologies keep me learning.</p><a :href="cv" download class="button button-dark">Download my CV ↓</a></div><figure><img :src="photo" alt="Hilmy outdoors on Mount Gede" /><figcaption>Away from the screen. Still exploring.</figcaption></figure></section></template>

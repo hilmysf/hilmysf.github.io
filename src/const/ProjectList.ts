@@ -1,0 +1,92 @@
+export const PROJECT_LIST = [
+     {
+        "id": "ipubers-online",
+        "title": "iPubers",
+        "desc": "Helping retailers distribute subsidized fertilizer to farmers through a purpose-built Android application.",
+        "type": "work",
+        "mediaPreview":  "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif",
+        "sourceCode": null,
+        "tags": ["available in play store", "private"],
+        "techs": ["Android", "Firebase", "Jetpack Compose"],
+        "features": [
+            "Advanced camera system powered by a custom AI model to detect farmer presence",
+            "AI-enhanced camera features for accurate farmer ID card recognition.",
+            "Bluetooth bill printing",
+        ]
+    },
+    {
+        "id": "numi",
+        "title": "Numi",
+        "desc": "An internal sales-force application for PT Pupuk Indonesia, helping Sales Executives, Assistant Sales Executives, Account Executives, and Assistant Account Executives record field visits and other activities.",
+        "type": "work",
+        "mediaPreview": null,
+        "sourceCode": null,
+        "tags": ["internal application", "private", "PT Pupuk Indonesia"],
+        "techs": [],
+        "features": [
+            "Record visits to kiosks, distributors, warehouses, and farmers.",
+            "Document other sales and field activities.",
+            "Support SE, ASE, AE, and AAE visit-recording workflows.",
+        ],
+    },
+     {
+        "id": "rekan-kios",
+        "title": "Rekan Kios",
+        "desc": "A point-of-sale application that helps retailers sell agricultural products and serve their customers.",
+        "type": "work",
+        "mediaPreview":  "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif",
+        "sourceCode": null,
+        "tags": ["available in play store", "private"],
+        "techs": ["Android", "Firebase", "Jetpack Compose"],
+        "features": [
+            "Bluetooth bill printing",
+        ]
+    },
+     {
+        "id": "portofolio",
+        "title": "Personal Portfolio",
+        "desc": "A personal corner of the web to share my work, experience, and approach to building digital products.",
+        "type": "personal",
+        "mediaPreview":  "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif",
+        "sourceCode": "https://github.com/hilmysf/hilmysf.github.io",
+        "tags": ["public", "personal website"],
+        "techs": ["Vue.js", "Vite", "Tailwind CSS"],
+        "features": [],
+    },
+    {
+        "id": "my-ev",
+        "title": "My EV",
+        "desc": "An electric motorcycle marketplace with maps for nearby workshops, charging stations, and battery swaps.",
+        "type": "work",
+        "mediaPreview": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif",
+        "sourceCode": null,
+        "tags": ["production ready", "private"],
+        "techs": ["Flutter", "Firebase", "Google Maps API"],
+        "features": [],
+    },
+    {
+        "id": "e-trans-troops",
+        "title": "e-Trans Troops",
+        "desc": "A sales-force application for finding prospects, tracking sales activity, and creating reports.",
+        "type": "work",
+        "mediaPreview":  "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif",
+        "sourceCode": null,
+        "tags": ["production ready", "private"],
+        "techs": ["Flutter", "Firebase", "Google Maps API"],
+        "features": [],
+    },
+    {
+        "id": "e-trans",
+        "title": "e-Trans",
+        "desc": "A ride-hailing application built around electric motorcycles.",
+        "type": "work",
+        "mediaPreview":  "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif",
+        "sourceCode": null,
+        "tags": ["production ready", "private"],
+        "techs": ["Flutter", "Firebase", "Google Maps API"],
+        "features": [],
+    },
+]
+
+// type: work, personal, freelance, other
+// tags: public, private, production ready, in development, available in play store
